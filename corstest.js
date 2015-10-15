@@ -1,1 +1,6 @@
-var test = "hello;
+try {
+	var test = "hello;
+}
+catch(e) {
+	throw e;
+}
